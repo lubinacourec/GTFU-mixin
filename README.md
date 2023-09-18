@@ -7,6 +7,6 @@ Actually all it does is change some properties of metal* fluids to behave more l
 <sup>* anything that has an ingot form.</sup>
 ### Version Info
 #### 0.1:
-boilerplate only. injects into gt class and makes absolutely no visible changes.
+boilerplate only. injects into gt class and makes absolutely no visible changes. This mod does nothing besides marginally inflate load times.
 #### 0.2 (UNRELEASED):
 does something useful?
