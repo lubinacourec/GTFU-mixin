@@ -1,0 +1,7 @@
+{
+  "package": "kvieta.gtfluidunshittifier.mixins.gregtech",
+  "refmap": "gtfluidunshittifier.refmap.json",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["fluidunshittifier"]
+}
